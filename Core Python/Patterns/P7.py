@@ -12,4 +12,3 @@ for i in range(0,5):
         print(l[i] , end=' ')
     print()
 
-    
